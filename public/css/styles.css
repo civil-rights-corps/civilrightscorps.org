@@ -1,0 +1,11 @@
+/*#crc-container {*/
+    /*max-width: 1190px;*/
+    /*margin: 0 auto;*/
+/*}*/
+header .tabs li {
+    text-transform: uppercase;
+}
+
+header {
+    background: yellow;
+}
