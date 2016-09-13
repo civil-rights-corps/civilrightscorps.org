@@ -6,6 +6,19 @@ header .tabs li {
     text-transform: uppercase;
 }
 
+.title {
+    text-align: center
+}
+.title h1 {
+    text-transform: uppercase;
+    line-height:4em;
+}
+
 header {
     background: yellow;
+}
+
+.description .paragraph-container {
+    margin: 0 auto;
+    max-width: 1190px;
 }
