@@ -1,0 +1,25 @@
+{
+  "name": "civilrightscorps.org",
+  "homepage": "https://github.com/civil-rights-corps/civilrightscorps.org",
+  "authors": [
+    "Kevin Moore <k.james.moore@gmail.com>"
+  ],
+  "description": "Civil Rights Corps",
+  "main": "",
+  "keywords": [
+    "Civil",
+    "Rights",
+    "Corps",
+    "mass",
+    "incarceration",
+    "prisons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
