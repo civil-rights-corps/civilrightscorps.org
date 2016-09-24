@@ -12,8 +12,18 @@ body {
     background-size: cover;
 }
 
-.crc-container {
-    background-color: white;
+#crc-container {
+    margin-top: 3em;
+    margin-left: 3em;
+    margin-right: 3em;
+
+    background: #f9fafc;
+    border-radius: 4px;
+    padding: 30px 0px 15px;
+    box-shadow: 10px 10px 43px 0px rgba(0,0,0,0.05);
+    margin-bottom: 10px;
+    min-height: 550px;
+    z-index:100;
 }
 
 header .tabs li {
