@@ -7,12 +7,22 @@ html {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+body {
+    background-image: url(let-me-go.jpg);
+    background-size: cover;
+}
+
+.crc-container {
+    background-color: white;
+}
+
 header .tabs li {
     text-transform: uppercase;
 }
 
-h2 {
-    text-transform: capitalize;
+h2, h4 {
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .title {
@@ -36,4 +46,8 @@ header {
 .mission .paragraph-container {
     margin: 0 auto;
     max-width: 1190px;
+}
+
+.contact {
+    text-align: center;
 }
